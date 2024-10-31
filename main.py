@@ -170,7 +170,7 @@ while running:
     collisions()
 
     # draw the game
-    display_surface.fill('#3a2e3f') 
+    display_surface.fill('#000000') 
     all_sprites.draw(display_surface)
     display_score()
 
